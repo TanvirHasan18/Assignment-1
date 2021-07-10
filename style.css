@@ -3,7 +3,8 @@
 
 }
 header{
-    background-image: linear-gradient(to left, rgb(135, 250, 141), rgb(207, 85, 85));
+        background-image: linear-gradient(to left, rgb(135, 250, 141), rgb(207, 85, 85));
+
     margin: 0%;
     padding: 25px;
 }
